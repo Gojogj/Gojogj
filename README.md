@@ -21,6 +21,7 @@ Whether it's debugging a tricky bug or building a robust application, I dive in 
 - Web: HTML, CSS, JavaScript
 - Databases: MySQL
 - Tools: Git, VS Code
+- framework: Django
 
 ### Connect with Me
 
